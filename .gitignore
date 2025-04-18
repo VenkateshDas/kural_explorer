@@ -30,4 +30,6 @@ vector_db/
 tmp_batch_*/
 
 # Kural text output (if you want to ignore generated files)
-#kural_texts/ 
+#kural_texts/ kural_db/
+kural_app.log
+.python-version
