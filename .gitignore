@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Environment variables
+.env
+.env.*
+
+# Database files
+*.sqlite3
+*.db
+*.db-journal
+*.pgdata
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Agno/Vector DB temp
+vector_db/
+tmp_batch_*/
+
+# Kural text output (if you want to ignore generated files)
+#kural_texts/ 
